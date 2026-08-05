@@ -7,3 +7,6 @@ Samuel:
 - related to slumping and thermokarsting
 - and calving events
 - using landlab classes and objects
+
+Jelis:
+We will use thermal diffusion to demonstrate the thawing of sediment.
